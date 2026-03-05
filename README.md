@@ -1,8 +1,8 @@
-# 👋 Hi, I'm <Your Name>
+# 👋 Hi, I'm Ajay Rajan A
 
 <!-- 1. Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38" width="95%" />
 </p>
 
 <!-- 2. Typewriter Animation -->
@@ -31,8 +31,9 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+)
 
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -42,9 +43,9 @@
 
 ### ⚙️ Backend & Cloud
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=plastic)
 
 ---
 
@@ -84,18 +85,18 @@
 # 📊 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayRajan05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
   
   <!-- 7. Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayRajan05&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
 <div align="center">
   <!-- 8. Contribution Streak -->
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=AjayRajan05&theme=tokyonight&hide_border=true" height="180em" />
   
   <!-- 9. Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjayRajan05&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -124,13 +125,13 @@ I am always looking for exciting opportunities to contribute to the community!
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="linkedin.com/in/ajayrajan05">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://ajayrajanportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ajayrajan727@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
