@@ -1,15 +1,19 @@
 # 👋 Hi, I'm Ajay Rajan A
 
-<!-- 1. Header Banner -->
+<!-- 1. Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38" width="95%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00d2ff,100:3a7bd5&text=AI%20Engineer&fontSize=65&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20•%20Voice%20AI%20•%20Intelligent%20Systems&descAlign=50&descAlignY=60"
+    width="95%"
+  />
 </p>
 
-<!-- 2. Typewriter Animation -->
+<!-- 2. Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+Intelligent+Systems;Machine+Learning+Specialist;Open+Source+Contributor;Hackathon+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems;Machine+Learning+Engineer;Voice+AI+and+LLM+Developer;Open+Source+Contributor;Hackathon+Builder"
+    alt="Typing Animation"
+  />
 </p>
 
 ---
