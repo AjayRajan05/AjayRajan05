@@ -2,12 +2,9 @@
 
 <!-- 1. Profile Banner -->
 <p align="center">
-
   <img 
-
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00d2ff,100:3a7bd5&text=AI%20Engineer&fontSize=65&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20•%20Voice%20AI%20•%20Intelligent%20Systems&descAlign=50&descAlignY=60"
-
-    width="95%"
+    src="https://capsule-render.vercel.app/api?type=venom&height=260&text=AI%20ENGINEER&fontSize=70&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1&color=0:ff00cc,50:3333ff,100:00f2ff&desc=Machine%20Learning%20•%20Voice%20AI%20•%20Intelligent%20Systems&descAlign=50&descAlignY=70"
+    width="100%"
   />
 </p>
 
@@ -39,7 +36,7 @@
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 )
 
 ### 🤖 AI / ML
