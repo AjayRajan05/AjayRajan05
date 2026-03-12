@@ -2,10 +2,41 @@
 
 <!-- 1. Profile Banner -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00d2ff,100:3a7bd5&text=AI%20Engineer&fontSize=65&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20•%20Voice%20AI%20•%20Intelligent%20Systems&descAlign=50&descAlignY=60"
-    width="95%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:00f2fe,50:7000ff,100:000000&text=AI%20ENGINEER&fontSize=80&fontAlignY=40&animation=glitch&desc=NEURAL%20NETWORKS%20•%20VOICE%20AI%20•%20AGENTS&descAlignY=62&descSize=20" width="100%" />
+</p>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="55%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f2fe&icon_color=7000ff" width="100%" />
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00f2fe&ring=7000ff" width="100%" />
+    </td>
+    <td width="45%" align="center" valign="middle" style="border: 1px solid #30363d; border-radius: 10px; background-color: #0D1117;">
+      <p><b><font color="#00f2fe">CORE TECH STACK</font></b></p>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,aws,linux,solidity,react,mongodb&perline=3" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active_Research-7000ff?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <br>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=icloud&logoColor=00f2fe" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=3a7bd5" />
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Systems-Online-green?style=for-the-badge&logo=gnumetadatarepository&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-1/pinned-assets/programing.gif" width="400" />
 </p>
 
 <!-- 2. Typing Animation -->
