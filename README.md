@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ajay Rajan A
 
 <!-- 1. Profile Banner -->
-You said
 <p align="center">
 
   <img 
@@ -9,9 +8,7 @@ You said
     src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00d2ff,100:3a7bd5&text=AI%20Engineer&fontSize=65&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20•%20Voice%20AI%20•%20Intelligent%20Systems&descAlign=50&descAlignY=60"
 
     width="95%"
-
   />
-
 </p>
 
 <!-- 2. Typing Animation -->
