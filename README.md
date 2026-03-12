@@ -1,14 +1,22 @@
 # 👋 Hi, I'm Ajay Rajan A
 
 <!-- 1. Profile Banner -->
-<div style="position: relative; width: 100%; text-align: center;">
-  <!-- Main Banner -->
-  <img src="cyberpunk-banner.png" style="width: 100%; display: block;">
+<!-- 1. The Container must be 'relative' -->
+<div style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto; line-height: 0;">
   
-  <!-- HUD Overlay -->
-  <img src="hud-overlay.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
+  <!-- 2. The Base Banner (Standard positioning) -->
+  <img src="assets/cyberpunk-banner.png" style="width: 100%; display: block;">
+  
+  <!-- 3. The Overlay (Must be 'absolute' to sit on top) -->
+  <img src="assets/hud-overlay.svg" 
+       style="position: absolute; 
+              top: 0; 
+              left: 0; 
+              width: 100%; 
+              height: 100%; 
+              pointer-events: none; 
+              z-index: 10;">
 </div>
-
 
 <!-- 2. Typing Animation -->
 <p align="center">
