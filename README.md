@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Ajay Rajan A
 
 <!-- 1. Profile Banner -->
-<p align="center">
+<div style="position: relative; width: 100%; text-align: center;">
+  <!-- Main Banner -->
+  <img src="cyberpunk-banner.png" style="width: 100%; display: block;">
+  
+  <!-- HUD Overlay -->
+  <img src="hud-overlay.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
+</div>
 
-<img src="cyberpunk-banner.png" width="100%">
-
-<img src="particles.svg" width="100%">
-
-<img src="overlay.svg" width="100%">
-
-</p>
 
 <!-- 2. Typing Animation -->
 <p align="center">
