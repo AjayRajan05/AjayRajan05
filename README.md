@@ -4,9 +4,6 @@
 <!-- 1. The Container must be 'relative' -->
 <div style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto; line-height: 0;">
   
-  <!-- 2. The Base Banner (Standard positioning) -->
-  <img src="cyberpunk-banner.png" style="width: 100%; display: block;">
-  
   <!-- 3. The Overlay (Must be 'absolute' to sit on top) -->
   <img src="hud-overlay.svg" 
        style="position: absolute; 
