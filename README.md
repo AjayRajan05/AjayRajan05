@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajay Rajan A
+# 👋 Hello World!!, I'm Ajay Rajan A
 
 <!-- 1. Profile Banner -->
 <!-- 1. The Container must be 'relative' -->
@@ -14,14 +14,6 @@
               pointer-events: none; 
               z-index: 10;">
 </div>
-
-<!-- 2. Typing Animation -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Systems;Machine+Learning+Engineer;Voice+AI+and+LLM+Developer;Open+Source+Contributor;Hackathon+Builder"
-    alt="Typing Animation"
-  />
-</p>
 
 ---
 
