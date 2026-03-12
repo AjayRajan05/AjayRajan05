@@ -2,10 +2,13 @@
 
 <!-- 1. Profile Banner -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=260&text=AI%20ENGINEER&fontSize=70&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1&color=0:ff00cc,50:3333ff,100:00f2ff&desc=Machine%20Learning%20•%20Voice%20AI%20•%20Intelligent%20Systems&descAlign=50&descAlignY=70"
-    width="100%"
-  />
+
+<img src="assets/cyberpunk-banner.png" width="100%">
+
+<img src="assets/particles.svg" width="100%">
+
+<img src="assets/overlay.svg" width="100%">
+
 </p>
 
 <!-- 2. Typing Animation -->
