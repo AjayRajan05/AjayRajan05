@@ -3,7 +3,7 @@
 <!-- CYBERPUNK HEADER -->
 
 <p align="center">
-<img src="assets/cyberpunk-room.png" width="100%" />
+<img src="cyberpunk-banner.png" width="100%" />
 </p>
 
 ---
