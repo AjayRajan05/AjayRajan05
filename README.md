@@ -3,11 +3,11 @@
 <!-- 1. Profile Banner -->
 <p align="center">
 
-<img src="assets/cyberpunk-banner.png" width="100%">
+<img src="cyberpunk-banner.png" width="100%">
 
-<img src="assets/particles.svg" width="100%">
+<img src="particles.svg" width="100%">
 
-<img src="assets/overlay.svg" width="100%">
+<img src="overlay.svg" width="100%">
 
 </p>
 
