@@ -79,7 +79,7 @@ Focus Areas:
 <tr>
 <td width="50%">
 
-## 🧠 AI Research Platform
+## 🧠[AI Research Platform](https://github.com/AjayRajan05/Autonomous-AI-Research-System)
 
 Autonomous AI research system that explores scientific literature.
 
@@ -95,7 +95,7 @@ Autonomous AI research system that explores scientific literature.
 </td>
 <td width="50%">
 
-## 🧩 MindGraph OS
+## 🧩[MindGraph OS](https://github.com/AjayRajan05/MindGraph-OS)
 
 AI-powered system for understanding large codebases.
 
@@ -114,7 +114,7 @@ AI-powered system for understanding large codebases.
 <tr>
 <td width="50%">
 
-## 🎤 VoiceOS
+## 🎤[Voice OS](https://github.com/AjayRajan05/VoiceOS)
 
 Voice-driven operating system interface.
 
@@ -131,7 +131,7 @@ Voice-driven operating system interface.
 
 <td width="50%">
 
-## 🛡 Aegis Learn [Aegis Learn](https://github.com/AjayRajan05/Aegis-Learn)
+## 🛡[Aegis Learn](https://github.com/AjayRajan05/Aegis-Learn)
 
 AI-powered adaptive learning platform.
 
