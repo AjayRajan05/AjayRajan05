@@ -131,7 +131,7 @@ Voice-driven operating system interface.
 
 <td width="50%">
 
-## 🛡 Aegis Learn
+## 🛡 Aegis Learn [Aegis Learn](https://github.com/AjayRajan05/Aegis-Learn)
 
 AI-powered adaptive learning platform.
 
